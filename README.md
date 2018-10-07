@@ -8,14 +8,21 @@ It's been always my dream to create something which would help me and others who
 
 # Story behind the name `Pandoras_Box_Of_Hack`
 
-###Who is Pendora?
+### Who is Pendora?
 _Pandora_ was the first human woman in Greek mythology. She was created by the gods Hephaestus and Athena, following the instructions of Zeus, who wanted to punish Prometheus for stealing the fire from the gods to give it to humans. Zeus wanted her to neutralize the blessing of fire, which had been stolen. She was a masterwork for the ages this being, so beautiful and devious at the same time that wonder took hold of the deathless gods themselves! They called it **Pandora**, meaning the “All-Endowed,” because each of the gods who dwell on Olympus gave it some kind of a gift. Now, it seems that Pandora wasn’t enough of a punishment for mankind. So, the gods also bestow her with numerous other gifts, plagues and evils to men who eat bread which they packed neatly in a beautiful jar, her supposed dowry. With the jar in hand, Pandora was given in marriage to Epimetheus, Prometheus' brother, who accepted the divine gift despite his brother's warnings to never take a gift from Olympian Zeus.
 
 One day, out of curiosity and not out of malice – Pandora lifted the lid of the jar, thus instantaneously releasing all evils and diseases of humanity including death into the world. Shocked by what had happened, she quickly tried to put the lid back, managing to merely trap Hope inside it. That is why Hope is the last thing that dies in man. Despite all our knowledge of the evil & unfortunate things that could & do befall us we can always still have hope! So keep your hopes high, you will find what you are searching for.
 
-#Contents
+# Contents
 
-* (Battle Ground)(#battle-ground)
-* (Knowledge Source)(#knowledge-source)
-* (Tools)(#tools)
-* (Streams)(streams)
+* [Battle Ground](#battle-ground)
+* [Knowledge Source](#knowledge-source)
+* [Tools](#tools)
+* [Streams](streams)
+
+
+# Credits
+
+The is a huge list which i could not have come up without collecting, salvaging ,reassembling and putting togather the works of other given below are the sources of references from where i co/llected the informations.
+
+* [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
